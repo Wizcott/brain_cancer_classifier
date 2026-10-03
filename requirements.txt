@@ -1,0 +1,5 @@
+streamlit>=1.20
+tensorflow>=2.8
+opencv-python>=4.5
+numpy>=1.19
+Pillow>=9.0
